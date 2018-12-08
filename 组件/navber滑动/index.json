@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "基础组件",
+  "enablePullDownRefresh":true,
+  "backgroundTextStyle":"#ffffff",
+  "onReachBottomDistance":50
+}
