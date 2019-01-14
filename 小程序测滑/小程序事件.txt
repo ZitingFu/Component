@@ -1,0 +1,6 @@
+
+小程序事件有哪些：
+点击事件：	bindtap 	
+长按事件：	bindlongtap 
+			bindtouchstart
+			bindtouchend
